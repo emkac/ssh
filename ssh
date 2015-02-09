@@ -1,0 +1,2 @@
+ ssh -f -N -R 9023:localhost:22 user@ipdistant(fqdn)
+ 
